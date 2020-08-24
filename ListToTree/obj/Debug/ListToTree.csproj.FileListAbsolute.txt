@@ -1,0 +1,9 @@
+D:\测试程序\ConsoleApplication17\ListToTree\bin\Debug\ListToTree.dll
+D:\测试程序\ConsoleApplication17\ListToTree\bin\Debug\ListToTree.pdb
+D:\测试程序\ConsoleApplication17\ListToTree\obj\Debug\ListToTree.csprojResolveAssemblyReference.cache
+D:\测试程序\ConsoleApplication17\ListToTree\obj\Debug\ListToTree.dll
+D:\测试程序\ConsoleApplication17\ListToTree\obj\Debug\ListToTree.pdb
+C:\Users\金大虎\Desktop\ListToTree\ListToTree\bin\Debug\ListToTree.dll
+C:\Users\金大虎\Desktop\ListToTree\ListToTree\bin\Debug\ListToTree.pdb
+C:\Users\金大虎\Desktop\ListToTree\ListToTree\obj\Debug\ListToTree.dll
+C:\Users\金大虎\Desktop\ListToTree\ListToTree\obj\Debug\ListToTree.pdb
